@@ -1,0 +1,9 @@
+{
+  "canais": [
+    {
+      "nome": "TV Scala",
+      "url": "https://link-do-stream.m3u8",
+      "categoria": "Aberto"
+    }
+  ]
+}
