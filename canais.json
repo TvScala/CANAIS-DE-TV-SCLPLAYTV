@@ -1,0 +1,12 @@
+[
+  {
+    "nome": "Canal 1",
+    "stream": "https://link1.m3u8",
+    "logo": "https://site.com/logo1.png"
+  },
+  {
+    "nome": "Canal 2",
+    "stream": "https://link2.m3u8",
+    "logo": "https://site.com/logo2.png"
+  }
+]
